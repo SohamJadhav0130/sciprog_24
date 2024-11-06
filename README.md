@@ -1,4 +1,4 @@
 # ICHEC - Github Assignments Practicals
 
-Student Name - Soham Shrikant Jadhav
-Student ID - 24212842
+- Student Name - Soham Shrikant Jadhav
+- Student ID - 24212842
