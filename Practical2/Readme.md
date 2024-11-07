@@ -1,3 +1,4 @@
+Practical 2
 This is for practical 2 of week 2
 
 - First program is to convert the decimal values into binary values in C
