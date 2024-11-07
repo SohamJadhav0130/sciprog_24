@@ -1,11 +1,11 @@
 *Problem Statement:*
 
-The program approximates the integral of tan⁡(x)tan(x) from 0 to π33π​ using the Trapezoidal Rule and compares the result to log⁡(2)log(2). It computes the absolute and relative errors.
-- Algorithm:
+The program approximates the tan⁡(x) integral from 0 to π/3​ using the Trapezoidal Rule and compares the result to log⁡(2). It computes the absolute and relative errors.
+*Algorithm:*
 
-- Initialization: Set the range [0, π33π​] and number of steps (12).
-- Numerical Integration: Use the Trapezoidal Rule to calculate the integral of tan⁡(x)tan(x).
-- Comparison: Compute log⁡(2)log(2), then calculate the absolute and relative differences between the integral and log⁡(2)log(2).
+- Initialization: Set the range [0, π/3​] and number of steps (12).
+- Numerical Integration: Use the Trapezoidal Rule to calculate the integral of tan⁡(x).
+- Comparison: Compute log⁡(2), then calculate the absolute and relative differences between the integral and log⁡(2).
 
 *Output*
 
