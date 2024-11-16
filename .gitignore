@@ -4,3 +4,6 @@ invhyptan.exe
 ui.exe
 pract8.exe
 gcd_random.exe
+matmulC.exe
+matrices_multiplication.o
+main.o
