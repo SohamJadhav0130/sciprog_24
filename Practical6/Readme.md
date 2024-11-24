@@ -10,6 +10,7 @@ PS D:\Study\ICHEC\sciprog_24\Practical6\s6> gcc -o matmulC main.o matrices_multi
 ```
 
 # Output - 
+``` Shell
 ./matmulC.exe
 
  This is matrix A
@@ -33,5 +34,4 @@ PS D:\Study\ICHEC\sciprog_24\Practical6\s6> gcc -o matmulC main.o matrices_multi
  11   2  -7 -16
  14   2 -10 -22
  17   2 -13 -28
-
- 
+```
